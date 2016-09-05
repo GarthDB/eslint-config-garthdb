@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-garthdb",
+  "version": "0.0.0",
+  "description": "My personal preferences for eslint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GarthDB/eslint-config-garthdb.git"
+  },
+  "keywords": [
+    "eslint",
+    "configuration"
+  ],
+  "author": "Garth Braithwaite <garthdb@gmail.com> (http://garthdb.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GarthDB/eslint-config-garthdb/issues"
+  },
+  "homepage": "https://github.com/GarthDB/eslint-config-garthdb#readme"
+}
