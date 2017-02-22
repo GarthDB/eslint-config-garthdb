@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-garthdb",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "My personal preferences for eslint.",
   "main": "index.js",
   "scripts": {
